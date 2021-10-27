@@ -3,4 +3,4 @@
  
  
  
-#### A banking system using structs and vectors tossing the dice and saving it to a txt file and then pulling the data back to the struct
+#### A banking system using structs and vectors tossing the data and saving it to a txt file and then pulling the data back to the struct
