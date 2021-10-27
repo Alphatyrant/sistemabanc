@@ -1,0 +1,16 @@
+{
+    // Arquivos associados
+    "files.associations": {
+        "*.h": "c",
+    },
+
+    // Configurações padronizadas do CPPLINT
+    
+    "cpplint.lineLength": 160,
+    "cpplint.filters": [
+        "-whitespace/tab",
+        "-readability/casting",
+        "-readability/multiline_comment"    
+    ]
+
+}
